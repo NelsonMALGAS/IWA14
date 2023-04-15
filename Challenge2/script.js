@@ -7,7 +7,7 @@ const add = (a, b) => {
 const multiply = ( a, b) => {
     return a * b
 }; 
-/**
+/** 
  * HOISTING is a behavior in JavaScript where variable and function declarations
    are moved to the top of their respective scopes, either global or local
  */
