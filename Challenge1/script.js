@@ -2,7 +2,7 @@
 
 const firstName = 'John';
 const age = 35;
-const hobbyName = 'Coding';
+const hobbyName = 'coding';
 const emoji='\u{1F60D}'
 
 /**
